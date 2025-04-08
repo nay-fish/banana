@@ -44,10 +44,13 @@ https://cloud.google.com/artifact-registry/docs
 ## Google Cloud Resources Used
 
 GKE:
-https://cloud.google.com/kubernetes-engine?hl=en
+http://34.67.62.118/ GKE
 
-GCE:https://cloud.google.com/products/compute?hl=en
+GCE:
+http://35.192.157.51/ GCE
 
-Cloud Run: https://cloud.google.com/run/docs
+Cloud Run: 
+https://dockerfile-178423029056.us-central1.run.app/ Cloud Run
 
-AppEngine: https://cloud.google.com/appengine/docs
+AppEngine: 
+https://group2-dev.uc.r.appspot.com/ AppEngine
