@@ -44,13 +44,13 @@ https://cloud.google.com/artifact-registry/docs
 ## Google Cloud Resources Used
 
 GKE:
-http://34.67.62.118/ GKE
+http://34.67.62.118/ 
 
 GCE:
-http://35.192.157.51/ GCE
+http://35.192.157.51/ 
 
 Cloud Run: 
-https://dockerfile-178423029056.us-central1.run.app/ Cloud Run
+https://dockerfile-178423029056.us-central1.run.app/ 
 
 AppEngine: 
-https://group2-dev.uc.r.appspot.com/ AppEngine
+https://group2-dev.uc.r.appspot.com/ 
